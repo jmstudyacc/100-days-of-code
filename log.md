@@ -9,14 +9,14 @@
 **Link to work:** 
 [Rustlings Forked Repo] https://github.com/jmstudyacc/rustlings/commit/11311d5ff964760a7b15d45b0ec7a692e76a8545
 
-### Day 2:
+### Day 2: March 23, 2021
 
+**Today's Progress**: I started working on a timer/alarm project in Rust today. Took a break from the Rustlings course as I think I will need to read & take notes from 'The Book' before I can continue further.
 
-**Today's Progress**:
-
-**Thoughts**:
+**Thoughts**: It was pretty fun working through the different date & time crates. I was a bit disappointed with the crates available to play an MP3 player. They seem really heavy when all I want is to play an MP3 file. I'll put it down to my ignorance on how audio is processed.
 
 **Link(s) to work**:
+[Time Alarm ]https://github.com/jmstudyacc/rust_practice/tree/master/timer_alarm
 
 
 ### Day 3:
@@ -26,3 +26,31 @@
 **Thoughts**:
 
 **Link(s) to work**:
+
+
+### Day 4:
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 5:
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 6:
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
