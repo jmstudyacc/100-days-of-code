@@ -19,13 +19,14 @@
 [Time Alarm ]https://github.com/jmstudyacc/rust_practice/tree/master/timer_alarm
 
 
-### Day 3:
+### Day 3: March 24, 2021
 
-**Today's Progress**:
+**Today's Progress**: Worked on making the alarm program into an executable and then running it through the terminal on MacOS. Added in some additional lines to make it wait 15 minutes and ding. I want it to appear at the top/front of my screen when it ends, but don't know how to do that.
 
-**Thoughts**:
+**Thoughts**: Today was one of those days where I don't feel like I achieved as much as I would have liked. It was a really valuable session today, I mean I didn't even know how to open an executable on MacOS until today, so that's good!
 
 **Link(s) to work**:
+[Time Alarm ]https://github.com/jmstudyacc/rust_practice/tree/master/timer_alarm
 
 
 ### Day 4:
