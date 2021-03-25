@@ -31,12 +31,12 @@
 
 ### Day 4:
 
-**Today's Progress**:
+**Today's Progress**: Tackled the Rustlings course today and made my way through structs, modules, enums & collections.
 
-**Thoughts**:
+**Thoughts**: I wasn't feeling it today so this was a struggle. A bit too tired to really throw myself fully at the alarm project especially as I know I need to deal with a Mac Window Manager of some sort. 
 
 **Link(s) to work**:
-
+[Rustlings]https://github.com/jmstudyacc/rustlings/commit/09ea92c1b6ad210e093fb6e64c73e67532d77928
 
 ### Day 5:
 
