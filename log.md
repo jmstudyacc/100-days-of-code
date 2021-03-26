@@ -56,3 +56,173 @@
 
 **Link(s) to work**:
 
+
+### Day 7:
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 8:
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 9:
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 10:
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 11:
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 12:
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 13:
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 14:
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 15:
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 16:
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 17:
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 18:
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 19:
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 20:
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 21:
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 22:
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 23:
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 24:
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+### Day 25:
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
