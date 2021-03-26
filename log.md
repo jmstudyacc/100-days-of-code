@@ -40,11 +40,12 @@
 
 ### Day 5:
 
-**Today's Progress**:
+**Today's Progress**: Error handling was pretty interesting and quite difficult as I hadn't learnt about it yet. I got through most of the error exercises, but 1 left to go.
 
-**Thoughts**:
+**Thoughts**: I like error handling in Rust, it seems concise with some nifty tricks to help get your end goal. A fair bit of learning around how to fully utilise the error handling, but good so far.
 
 **Link(s) to work**:
+[Rustlings]https://github.com/jmstudyacc/rustlings/commit/1496fddcd6c9b2ac9357661ab070eed05fe0fd3e
 
 
 ### Day 6:
