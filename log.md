@@ -29,7 +29,7 @@
 [Timer Alarm ]https://github.com/jmstudyacc/rust_practice/tree/master/timer_alarm
 
 
-### Day 4:
+### Day 4: March 25, 2021
 
 **Today's Progress**: Tackled the Rustlings course today and made my way through structs, modules, enums & collections.
 
@@ -38,7 +38,7 @@
 **Link(s) to work**:
 [Rustlings]https://github.com/jmstudyacc/rustlings/commit/09ea92c1b6ad210e093fb6e64c73e67532d77928
 
-### Day 5:
+### Day 5: March 26, 2021
 
 **Today's Progress**: Error handling was pretty interesting and quite difficult as I hadn't learnt about it yet. I got through most of the error exercises, but 1 left to go.
 
@@ -48,7 +48,7 @@
 [Rustlings]https://github.com/jmstudyacc/rustlings/commit/1496fddcd6c9b2ac9357661ab070eed05fe0fd3e
 
 
-### Day 6:
+### Day 6: March 27, 2021
 
 **Today's Progress**: Hit a lot of brick walls and arguments with the compiler. Goal was to get user input and validate it, but ended up down a rabbit hole using ? and Result<i32, ParseIntError>. I couldn't get that to work too well, so defaulted back to match with Ok() & Err() arms. It works now, but the code itself is a mess and needs cleaning up.
 
@@ -58,7 +58,7 @@
 [Timer Alarm]https://github.com/jmstudyacc/rust_practice/blob/master/timer_alarm/src/main.rs
 
 
-### Day 7:
+### Day 7: March 28, 2021
 
 **Today's Progress**:
 
