@@ -16,7 +16,7 @@
 **Thoughts**: It was pretty fun working through the different date & time crates. I was a bit disappointed with the crates available to play an MP3 player. They seem really heavy when all I want is to play an MP3 file. I'll put it down to my ignorance on how audio is processed.
 
 **Link(s) to work**:
-[Time Alarm ]https://github.com/jmstudyacc/rust_practice/tree/master/timer_alarm
+[Timer Alarm ]https://github.com/jmstudyacc/rust_practice/tree/master/timer_alarm
 
 
 ### Day 3: March 24, 2021
@@ -26,7 +26,7 @@
 **Thoughts**: Today was one of those days where I don't feel like I achieved as much as I would have liked. It was a really valuable session today, I mean I didn't even know how to open an executable on MacOS until today, so that's good!
 
 **Link(s) to work**:
-[Time Alarm ]https://github.com/jmstudyacc/rust_practice/tree/master/timer_alarm
+[Timer Alarm ]https://github.com/jmstudyacc/rust_practice/tree/master/timer_alarm
 
 
 ### Day 4:
@@ -50,11 +50,12 @@
 
 ### Day 6:
 
-**Today's Progress**:
+**Today's Progress**: Hit a lot of brick walls and arguments with the compiler. Goal was to get user input and validate it, but ended up down a rabbit hole using ? and Result<i32, ParseIntError>. I couldn't get that to work too well, so defaulted back to match with Ok() & Err() arms. It works now, but the code itself is a mess and needs cleaning up.
 
-**Thoughts**:
+**Thoughts**: It was a slog today and almost entirely all my fault. The compiler is an amazing tool and is pretty good at explaining the issue. Some of the issues could do with a bit more explanation and I should try to capture those & provide feedback. Maybe I could possibly help make the error reporting more verbose.
 
 **Link(s) to work**:
+[Timer Alarm]https://github.com/jmstudyacc/rust_practice/blob/master/timer_alarm/src/main.rs
 
 
 ### Day 7:
