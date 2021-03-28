@@ -60,11 +60,13 @@
 
 ### Day 7: March 28, 2021
 
-**Today's Progress**:
+**Today's Progress**: Continued working on the alarm project today with a focus on adding comments. Also added in some additional code to the sleeping function to make it functional. Intentionally made life a bit harder by including a requirement to 'safe cast' to u64 from u32. I could have just changed the value returned by a function to be u64.
 
-**Thoughts**:
+**Thoughts**: I'm still enjoying it, but lacking creativity today with it. I also think that my code doesn't seem very idiomatic to Rust. I want to try and include some custom enums & structs in the project. Not sure what twist to add to it, I should create a menu of some sort to provide the user with more options. I could also try and find out what options there are to produce a GUI and not just a terminal. 
+I feel like what has been achieved so far could be lifted easily into any other language - is that a good thing?
 
 **Link(s) to work**:
+[Timer Alarm]https://github.com/jmstudyacc/rust_practice/blob/master/timer_alarm/src/main.rs
 
 
 ### Day 8:
