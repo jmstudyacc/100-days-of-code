@@ -69,14 +69,14 @@ I feel like what has been achieved so far could be lifted easily into any other 
 [Timer Alarm]https://github.com/jmstudyacc/rust_practice/blob/master/timer_alarm/src/main.rs
 
 
-### Day 8:
+### Day 8: March 29, 2021
 
-**Today's Progress**:
+**Today's Progress**: Created a new repo to cover off the work I do on Hackerrank. I am going to be focusing on Java & Python for the next few months (Sorry Rustlang :( ) as I need to prep for exams. I worked on Static blocks today, various Scan methods and Nodes
 
-**Thoughts**:
+**Thoughts**: Moving back to Java is always a bit of a lurch. I find myself trying to code in Rust, but thankfully I find the 2 languages kind of similar so it's not the end of the world.
 
 **Link(s) to work**:
-
+[Hackerrank]https://github.com/jmstudyacc/hackerrank/commit/64d615f0884a9a9758438934e82d85f14bb8e7dd
 
 ### Day 9:
 
