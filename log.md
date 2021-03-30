@@ -78,13 +78,14 @@ I feel like what has been achieved so far could be lifted easily into any other 
 **Link(s) to work**:
 [Hackerrank]https://github.com/jmstudyacc/hackerrank/commit/64d615f0884a9a9758438934e82d85f14bb8e7dd
 
-### Day 9:
+### Day 9: March 30, 2021
 
-**Today's Progress**:
+**Today's Progress**: Not a really good day for progress. I was able to complete 2 challenges on Hackerrank for Java, but it really wasn't a lot of fun doing so
 
-**Thoughts**:
+**Thoughts**: I find myself getting frustrated with the way that the Java documentation is presented. It also feels like there are too many ways to achieve the same goal which doesn't help when trying to find the correct solution. Lesson being to always go for the implementation relevant to the latest Java version. I dislike the Java documentation greatly, but perhaps it's because I don't know how to read it. I feel like it is not the most user friendly when trying to understand how a class or method operates!
 
 **Link(s) to work**:
+[Hackerrank]https://github.com/jmstudyacc/hackerrank
 
 
 ### Day 10:
