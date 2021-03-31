@@ -88,13 +88,14 @@ I feel like what has been achieved so far could be lifted easily into any other 
 [Hackerrank]https://github.com/jmstudyacc/hackerrank
 
 
-### Day 10:
+### Day 10: March 31, 2021
 
-**Today's Progress**:
+**Today's Progress**: 1/10 of the way through the challenge! A lot of work today on arrays with some data types thrown in.
 
-**Thoughts**:
+**Thoughts**: I am still struggling to get my head around some of the wording of 'programming' problems. Initial reaction to them is that the problems always seem to sound much harder than they actually are. A lot of internal translation has to occur before I can start addressing the problem. 1/10 of the way through the challeenge after this. I am a bit annoyed as I feel like having to refocus on Java drags me way back in ability when compared to working with Rust. That's a mistruth though as I think the language right now is not the issue - Java just doesn't help as I find it quite unwieldy!
 
 **Link(s) to work**:
+[Hackerrank]https://github.com/jmstudyacc/hackerrank
 
 
 ### Day 11:
