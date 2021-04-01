@@ -98,14 +98,14 @@ I feel like what has been achieved so far could be lifted easily into any other 
 [Hackerrank]https://github.com/jmstudyacc/hackerrank
 
 
-### Day 11:
+### Day 11: April 1, 2021
 
-**Today's Progress**:
+**Today's Progress**: Working through some more of the Hackerrank tasks today. Looked at Arrays in various forms a lot, 1D Arrays, 2D Arrays, using Arraylists etc. I was also working on implementing JUnit testing in the code and was able to make that work.
 
-**Thoughts**:
+**Thoughts**: I still don't particularly enjoy Java, but need to just power through it for another 45 days.
 
 **Link(s) to work**:
-
+[Hackerrank]https://github.com/jmstudyacc/hackerrank
 
 ### Day 12:
 
