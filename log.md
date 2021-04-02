@@ -107,13 +107,14 @@ I feel like what has been achieved so far could be lifted easily into any other 
 **Link(s) to work**:
 [Hackerrank]https://github.com/jmstudyacc/hackerrank
 
-### Day 12:
+### Day 12: April 2, 2021
 
-**Today's Progress**:
+**Today's Progress**: Working through some architectures and frameworks for software development today. Focus was primarily on Model View Controller and exploring cohesion & coupling. 
 
-**Thoughts**:
+**Thoughts**: Interesting topics and I felt like I better understand why these constructs exist. I feel like I better appreciate why code is made modular and extensible now. Previous exposure to these topics was not comprehensive enough to cover them in the detail that has enabled me to understand it.
 
 **Link(s) to work**:
+[Cisco Devnet]https://github.com/jmstudyacc/Cisco_DevNet/tree/master/3_designing_software
 
 
 ### Day 13:
