@@ -117,13 +117,14 @@ I feel like what has been achieved so far could be lifted easily into any other 
 [Cisco Devnet]https://github.com/jmstudyacc/Cisco_DevNet/tree/master/3_designing_software
 
 
-### Day 13:
+### Day 13: April 3, 2021
 
-**Today's Progress**:
+**Today's Progress**: The work I did yesterday, as well as the Python coding I did via Devnet studies today pushed me into Classes & Interfaces. I created a Vehicle interface and a Car class that implements the Vehicle interface. Plan is to continue with a Bike class soon.
 
-**Thoughts**:
+**Thoughts**: This was actually surprisingly fun and not too bad. Working through the code to create objects and provide the data to populate was cool. I am not too confident on HOW the class/interface relationship works, but I plan to read/watch around the subject. Pretty fun stuff really.
 
 **Link(s) to work**:
+[Vehicles]https://github.com/jmstudyacc/hackerrank/tree/main/src/vechicles
 
 
 ### Day 14:
