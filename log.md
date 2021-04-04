@@ -127,14 +127,14 @@ I feel like what has been achieved so far could be lifted easily into any other 
 [Vehicles]https://github.com/jmstudyacc/hackerrank/tree/main/src/vechicles
 
 
-### Day 14:
+### Day 14: April 4, 2021
 
-**Today's Progress**:
+**Today's Progress**: Hackerrank exercise looking at some String fundamentals and Fraction API coursework
 
-**Thoughts**:
+**Thoughts**: The strings intro on Hackerrank was more complex than I expected and took longer. The Fraction API coursework was also looking at Strings, but in this case it was implementing an override toString() method for displaying a fraction. Not unpleasant today at all and I am enjoying making everything more modular in its existence.
 
 **Link(s) to work**:
-
+[Hackerrank]https://github.com/jmstudyacc/hackerrank
 
 ### Day 15:
 
