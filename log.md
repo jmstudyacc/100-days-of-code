@@ -136,14 +136,14 @@ I feel like what has been achieved so far could be lifted easily into any other 
 **Link(s) to work**:
 [Hackerrank]https://github.com/jmstudyacc/hackerrank
 
-### Day 15:
+### Day 15: April 6, 2021
 
-**Today's Progress**:
+**Today's Progress**: I spent about 9 hours today working on the Fractions coursework, Java, today. I would say that makes up for taking a break yesterday (although I was still doing some Postman + Python work). I am pretty much finished, just need to tidy it up and make sure all my test files are there.
 
-**Thoughts**:
+**Thoughts**: Long, arduous, slog.
 
 **Link(s) to work**:
-
+No links as don't want to get done for plaigirising!
 
 ### Day 16:
 
