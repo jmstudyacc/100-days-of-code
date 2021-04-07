@@ -145,13 +145,14 @@ I feel like what has been achieved so far could be lifted easily into any other 
 **Link(s) to work**:
 No links as don't want to get done for plaigirising!
 
-### Day 16:
+### Day 16: April 7, 2021
 
-**Today's Progress**:
+**Today's Progress**: More Java coursework and arguing with JUnit, but that might be done for a bit now. So I turned my attention back to the Cisco DevNet studies. I decided to try and emulate a Python DNAC API interaction but in Golang.
 
-**Thoughts**:
+**Thoughts**: Definitely like a fish out of water when using Golang. I can make sense of it, but I don't know it deeply enough to be confident. It is definitely a lot more work than Python and also(!) seems that the DNAC API supports Node.js as well. Surprising to see.
 
 **Link(s) to work**:
+[Golang GET Request]https://github.com/jmstudyacc/Cisco_DevNet/blob/master/4_intro_to_networked_apis/basic_GET_req.go
 
 
 ### Day 17:
