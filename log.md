@@ -145,6 +145,7 @@ I feel like what has been achieved so far could be lifted easily into any other 
 **Link(s) to work**:
 No links as don't want to get done for plaigirising!
 
+
 ### Day 16: April 7, 2021
 
 **Today's Progress**: More Java coursework and arguing with JUnit, but that might be done for a bit now. So I turned my attention back to the Cisco DevNet studies. I decided to try and emulate a Python DNAC API interaction but in Golang.
@@ -155,13 +156,16 @@ No links as don't want to get done for plaigirising!
 [Golang GET Request]https://github.com/jmstudyacc/Cisco_DevNet/blob/master/4_intro_to_networked_apis/basic_GET_req.go
 
 
-### Day 17:
+### Day 17: April 8, 2021
 
-**Today's Progress**:
+**Today's Progress**: Substrings & Palindromes were on the menu tonight. Hackerrank time again today as I was splitting my attention away from Java so needed to get back on the horse.
 
-**Thoughts**:
+**Thoughts**: Substring problem took longer than I expected, but that's really because I didn't just break the problem down. It is really easy to be dazzled by words, assignments and operators. In reality, it is easier than the question makes it sound. Palindrome work was a confidence boon as I attempted that problem a few months ago and went WAY complex with a solution that ultimately didn't really work. Tonight it worked first time and I'm confident it was O(N/2).
+
+Watch this space over the next few months. I should be able to drop Java and move onto languages I prefer, coding will be more enjoyable woo!
 
 **Link(s) to work**:
+[Hackerrank]https://github.com/jmstudyacc/hackerrank
 
 
 ### Day 18:
