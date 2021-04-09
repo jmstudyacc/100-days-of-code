@@ -168,13 +168,14 @@ Watch this space over the next few months. I should be able to drop Java and mov
 [Hackerrank]https://github.com/jmstudyacc/hackerrank
 
 
-### Day 18:
+### Day 18: April 9, 2021
 
-**Today's Progress**:
+**Today's Progress**: Java coursework for something like 10 hours today. It was a long one today, but was prompted by me making JUnit tests work. Worked through something like 150 assertions split into ~70 individual tests.
 
-**Thoughts**:
+**Thoughts**: Not the TDD approach to coding which I know is a bad habit to be in. I was unable to get the JUnit tests to work and today was a gamble. A gamble that worked, but meant I did something like 4 weeks of coding tests in 1 day. I will be really happy once I can say goodbye to Java. I know it is a great language and the Internet basically lives and breathes Java, but I am not the biggest fan.
 
 **Link(s) to work**:
+As before, can't link just yet - but when I can I will edit these links!
 
 
 ### Day 19:
