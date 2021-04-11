@@ -178,13 +178,14 @@ Watch this space over the next few months. I should be able to drop Java and mov
 As before, can't link just yet - but when I can I will edit these links!
 
 
-### Day 19:
+### Day 19: April 10, 2021
 
-**Today's Progress**:
+**Today's Progress**: Working on Anagrams on Hackerrank
 
-**Thoughts**:
+**Thoughts**: Not happy with my code so far - pretty sure I have a solution that works, but I don't like it. 2 loops (N^2?) and 3 if statements in total. I will have to try and refactor this to make it better. Use a mess of a string[], arraylist and an int. 
 
 **Link(s) to work**:
+[Hackerrank]https://github.com/jmstudyacc/hackerrank
 
 
 ### Day 20:
