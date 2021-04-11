@@ -188,13 +188,16 @@ As before, can't link just yet - but when I can I will edit these links!
 [Hackerrank]https://github.com/jmstudyacc/hackerrank
 
 
-### Day 20:
+### Day 20: April 11, 2021
 
-**Today's Progress**:
+**Today's Progress**: Anagrams & RegEx work - Anagrams code was cleaned up to work without needing ArrayLists & to capture the lexicographically 'largest' character different between the 2 words. RegEx was mainly manipulating [^A-Za-z] to erase unwanted characters.
 
-**Thoughts**:
+**Thoughts**: The Anagrams was really hard for me to get around without using ArrayLists or Maps. I had to use the editorial provided on Hackerrank to get through that one. That task won't count toward the score/activity of that section. The RegEx one was like 'Ahhhhhhhhhhhhhhhhh - oh cool' levels of frustrating. Started off with constructing the RegEx using \\W\\d\\s+ etc. but eventually with the help of regex101.com found the right path.
+
+Now that the Java coursework is done I imagine most of these entries will be Hackerrank or JetBrains Academy related.
 
 **Link(s) to work**:
+[Hackerrank]https://github.com/jmstudyacc/hackerrank
 
 
 ### Day 21:
