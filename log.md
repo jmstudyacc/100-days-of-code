@@ -202,11 +202,12 @@ Now that the Java coursework is done I imagine most of these entries will be Hac
 
 ### Day 21:
 
-**Today's Progress**:
+**Today's Progress**: Java & RegEx again today. Identifying duplicate words and removing them from a String and some practise with the Pattern.compile() method. Also using a While loop instead of For and decrementing down to break the condition - not something I would usually default to!
 
-**Thoughts**:
+**Thoughts**: I thought I would be free from RegEx for a bit, but not likely. I can see the value in using RegEx, but at present I don't know if the exercises are worthwhile. For instance, I would prefer to not rely on RegEx to determine an IPv4 address and would prefer a combination of RegEx plus conditionals.
 
 **Link(s) to work**:
+[Hackerrank]https://github.com/jmstudyacc/hackerrank
 
 
 ### Day 22:
