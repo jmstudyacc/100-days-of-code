@@ -200,7 +200,7 @@ Now that the Java coursework is done I imagine most of these entries will be Hac
 [Hackerrank]https://github.com/jmstudyacc/hackerrank
 
 
-### Day 21:
+### Day 21: April 12, 2021
 
 **Today's Progress**: Java & RegEx again today. Identifying duplicate words and removing them from a String and some practise with the Pattern.compile() method. Also using a While loop instead of For and decrementing down to break the condition - not something I would usually default to!
 
@@ -210,14 +210,14 @@ Now that the Java coursework is done I imagine most of these entries will be Hac
 [Hackerrank]https://github.com/jmstudyacc/hackerrank
 
 
-### Day 22:
+### Day 22: April 13, 2021
 
-**Today's Progress**:
+**Today's Progress**: A mixture today of Java and Python - not ideal - looking at BigDecimals in Java and then just some revision in Python.
 
-**Thoughts**:
+**Thoughts**: Hard today, most of the day was spent not on programming and my head was not well equipped to deal with code this evening. One thing I notice, coding in Python is dreamy compared to using something like Java...
 
 **Link(s) to work**:
-
+[Python Hackerrank]https://github.com/jmstudyacc/python_practice
 
 ### Day 23:
 
