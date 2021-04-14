@@ -219,14 +219,15 @@ Now that the Java coursework is done I imagine most of these entries will be Hac
 **Link(s) to work**:
 [Python Hackerrank]https://github.com/jmstudyacc/python_practice
 
-### Day 23:
+### Day 23: April 14, 2021
 
-**Today's Progress**:
+**Today's Progress**: Among other topics the focus today was on HTTP Auth & BigIntegers + MD5 hashes. 
 
-**Thoughts**:
+**Thoughts**: Not a bad day for progress and enjoyment. I suppose it is an indicator that my fundamental understanding of data structures & maths is weak but I find dealing with these MUCH easier than some of the RegEx or 'easy' problems on Hackerrank. Maybe I should turn my focus to those problematic topics to round myself out better.
 
 **Link(s) to work**:
-
+[Hackerrank]https://github.com/jmstudyacc/hackerrank
+[Hackerrank]https://github.com/jmstudyacc/cisco_devnet
 
 ### Day 24:
 
