@@ -227,15 +227,16 @@ Now that the Java coursework is done I imagine most of these entries will be Hac
 
 **Link(s) to work**:
 [Hackerrank]https://github.com/jmstudyacc/hackerrank
-[Hackerrank]https://github.com/jmstudyacc/cisco_devnet
+[Devnet]https://github.com/jmstudyacc/cisco_devnet
 
-### Day 24:
+### Day 24: April 15, 2021
 
-**Today's Progress**:
+**Today's Progress**: Hackerrank exercises today!
 
-**Thoughts**:
+**Thoughts**: Worked through some 'easy' difficulty Java exercises on hackerrank. Looking at operations with BigIntegers to start. Moved onto working with Hashmaps & Lists in Java after. Not too bad working through these, but as they are 'easy' exercises I should expect the difficulty to be low. Will likely be moving onto the 'medium' difficulty exercises soon!
 
 **Link(s) to work**:
+[Hackerrank]https://github.com/jmstudyacc/hackerrank
 
 
 ### Day 25:
