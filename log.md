@@ -239,10 +239,11 @@ Now that the Java coursework is done I imagine most of these entries will be Hac
 [Hackerrank]https://github.com/jmstudyacc/hackerrank
 
 
-### Day 25:
+### Day 25: April 16, 2021
 
-**Today's Progress**:
+**Today's Progress**: Worked through more hackerrank exercises for Java today. A lot of work on Classes, extending, implementing, overriding etc. Pretty easy, so will look to other literature to test that more fully. 
 
-**Thoughts**:
+**Thoughts**: At first glance classes do not seem that complex, but I am cautious to exclaim that until I start seeing some more complex uses. I think my Java skills have improved? I'm not certain though, I will have to try out some other sites and see if they give me issues.
 
 **Link(s) to work**:
+[Hackerrank]https://github.com/jmstudyacc/hackerrank
