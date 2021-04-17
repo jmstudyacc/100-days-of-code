@@ -18,3 +18,93 @@ https://github.com/jmstudyacc/python_practice/tree/master/POP1-Exam_Revision
 
 **Link(s) to work**:
 
+
+### Day 27: 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+### Day 27: 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+### Day 27: 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+### Day 27: 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+### Day 27: 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+### Day 27: 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+### Day 27: 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+### Day 27: 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+### Day 27: 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+### Day 27: 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
