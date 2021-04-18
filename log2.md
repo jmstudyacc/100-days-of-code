@@ -10,14 +10,14 @@
 https://github.com/jmstudyacc/python_practice/tree/master/POP1-Exam_Revision
 
 
-### Day 27: 
+### Day 27: April 18, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Further focus on the revision exercises
 
-**Thoughts**: 
+**Thoughts**: Not a fun one today, maybe I'm tired, but there were a lot of mistakes from me. I felt particularly perturbed as I found myself trying to use Java keywords and methods in Python.
 
 **Link(s) to work**:
-
+https://github.com/jmstudyacc/python_practice/tree/master/POP1-Exam_Revision
 
 ### Day 27: 
 
