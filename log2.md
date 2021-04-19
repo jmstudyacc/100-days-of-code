@@ -19,13 +19,14 @@ https://github.com/jmstudyacc/python_practice/tree/master/POP1-Exam_Revision
 **Link(s) to work**:
 https://github.com/jmstudyacc/python_practice/tree/master/POP1-Exam_Revision
 
-### Day 27: 
+### Day 28: April 19, 2021 
 
-**Today's Progress**: 
+**Today's Progress**: Further exam revision for Python. Primary focus today was on Matrices and Recursion.
 
-**Thoughts**: 
+**Thoughts**: I am still more wobbly on recursion than I'd like, but I think I am getting closer. Matrices had a lightbulb moment for me today. Usually I would get all flustered with matrices, but today I realised just treat them like their data structure. Matrix of lists? Just think of them all as lists, but needing a loop to access the desired list.
 
 **Link(s) to work**:
+https://github.com/jmstudyacc/python_practice/tree/master/POP1-Exam_Revision
 
 
 ### Day 27: 
