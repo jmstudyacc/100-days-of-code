@@ -29,7 +29,17 @@ https://github.com/jmstudyacc/python_practice/tree/master/POP1-Exam_Revision
 https://github.com/jmstudyacc/python_practice/tree/master/POP1-Exam_Revision
 
 
-### Day 27: 
+### Day 29: April 20, 2021
+
+**Today's Progress**: Classes in Python
+
+**Thoughts**: Took longer than I would like to devise a class for collating items similarly to a checkout. Some valuable lessons reinforced today which was useful, but need to tackle the Sector class next. I also would just like more work on Python classes in general.
+
+**Link(s) to work**:
+https://github.com/jmstudyacc/python_practice/tree/master/POP1-Exam_Revision
+
+
+### Day 30: 
 
 **Today's Progress**: 
 
@@ -38,7 +48,7 @@ https://github.com/jmstudyacc/python_practice/tree/master/POP1-Exam_Revision
 **Link(s) to work**:
 
 
-### Day 27: 
+### Day 31: 
 
 **Today's Progress**: 
 
@@ -47,7 +57,7 @@ https://github.com/jmstudyacc/python_practice/tree/master/POP1-Exam_Revision
 **Link(s) to work**:
 
 
-### Day 27: 
+### Day 32: 
 
 **Today's Progress**: 
 
@@ -56,7 +66,7 @@ https://github.com/jmstudyacc/python_practice/tree/master/POP1-Exam_Revision
 **Link(s) to work**:
 
 
-### Day 27: 
+### Day 33: 
 
 **Today's Progress**: 
 
@@ -65,7 +75,7 @@ https://github.com/jmstudyacc/python_practice/tree/master/POP1-Exam_Revision
 **Link(s) to work**:
 
 
-### Day 27: 
+### Day 34: 
 
 **Today's Progress**: 
 
@@ -74,7 +84,7 @@ https://github.com/jmstudyacc/python_practice/tree/master/POP1-Exam_Revision
 **Link(s) to work**:
 
 
-### Day 27: 
+### Day 35: 
 
 **Today's Progress**: 
 
@@ -83,7 +93,7 @@ https://github.com/jmstudyacc/python_practice/tree/master/POP1-Exam_Revision
 **Link(s) to work**:
 
 
-### Day 27: 
+### Day 36: 
 
 **Today's Progress**: 
 
@@ -92,16 +102,7 @@ https://github.com/jmstudyacc/python_practice/tree/master/POP1-Exam_Revision
 **Link(s) to work**:
 
 
-### Day 27: 
-
-**Today's Progress**: 
-
-**Thoughts**: 
-
-**Link(s) to work**:
-
-
-### Day 27: 
+### Day 37: 
 
 **Today's Progress**: 
 
