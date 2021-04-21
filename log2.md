@@ -39,13 +39,14 @@ https://github.com/jmstudyacc/python_practice/tree/master/POP1-Exam_Revision
 https://github.com/jmstudyacc/python_practice/tree/master/POP1-Exam_Revision
 
 
-### Day 30: 
+### Day 30: April 21, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Finishing off the Classes exercises, they went into Inheritance and Data Structures in Python.
 
-**Thoughts**: 
+**Thoughts**: Inheritance really is a smart feature of a language. Great being able to write something once and reuse it. The data structures exercises were, as always, so much fun to get through. I am still a noob when it comes to them and could do with remembering what is req'd by that data structure, but I enjoy it a lot. I extended the Stack class to also print out the contents of the stack using a recursive function.
 
 **Link(s) to work**:
+https://github.com/jmstudyacc/python_practice/tree/master/POP1-Exam_Revision
 
 
 ### Day 31: 
