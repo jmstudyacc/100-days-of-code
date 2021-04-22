@@ -49,13 +49,14 @@ https://github.com/jmstudyacc/python_practice/tree/master/POP1-Exam_Revision
 https://github.com/jmstudyacc/python_practice/tree/master/POP1-Exam_Revision
 
 
-### Day 31: 
+### Day 31: April 22, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Continuing with the Challenges for the Python coursework ahead of May exam. 
 
-**Thoughts**: 
+**Thoughts**:  The questions are much easier this time around which fills me with a lot of confidence. Tackling those tasks that were too hard before but now succeeding is a great feeling. I will continue to do these challenges until they are all complete and then possibly turn my attention back to Java. That is likely to happen before the exma, but need to balance the programming brain. I will likely get back on the Hackerrank and Java JetBrains Academy next week.
 
 **Link(s) to work**:
+https://github.com/jmstudyacc/python_practice/tree/master/POP1-Exam_Revision
 
 
 ### Day 32: 
