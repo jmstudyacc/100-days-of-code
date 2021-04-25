@@ -53,29 +53,30 @@ https://github.com/jmstudyacc/python_practice/tree/master/POP1-Exam_Revision
 
 **Today's Progress**: Continuing with the Challenges for the Python coursework ahead of May exam. 
 
-**Thoughts**:  The questions are much easier this time around which fills me with a lot of confidence. Tackling those tasks that were too hard before but now succeeding is a great feeling. I will continue to do these challenges until they are all complete and then possibly turn my attention back to Java. That is likely to happen before the exma, but need to balance the programming brain. I will likely get back on the Hackerrank and Java JetBrains Academy next week.
+**Thoughts**:  The questions are much easier this time around which fills me with a lot of confidence. Tackling those tasks that were too hard before but now succeeding is a great feeling. I will continue to do these challenges until they are all complete and then possibly turn my attention back to Java. That is likely to happen before the exam, but need to balance the programming brain. I will likely get back on the Hackerrank and Java JetBrains Academy next week.
 
 **Link(s) to work**:
 https://github.com/jmstudyacc/python_practice/tree/master/POP1-Exam_Revision
 
 
-### Day 32: 
+### Day 32: April 23, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Finished off the Challenge 3 exercises
 
-**Thoughts**: 
-
-**Link(s) to work**:
-
-
-### Day 33: 
-
-**Today's Progress**: 
-
-**Thoughts**: 
+**Thoughts**: The challenges were getting more difficult which was good. Testing a better breadth of skills and not just basic data type and control statements
 
 **Link(s) to work**:
+https://github.com/jmstudyacc/python_practice/tree/master/POP1-Exam_Revision
 
+
+### Day 33: April 25, 2021
+
+**Today's Progress**: Working extra to cover the missed day yesterday - working on Hyperskill problems.
+
+**Thoughts**: A lot of work on Strings today and using methods to return new copies of them.
+
+**Link(s) to work**:
+https://github.com/jmstudyacc/python_practice
 
 ### Day 34: 
 
