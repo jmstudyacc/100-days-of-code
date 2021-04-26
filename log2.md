@@ -78,13 +78,15 @@ https://github.com/jmstudyacc/python_practice/tree/master/POP1-Exam_Revision
 **Link(s) to work**:
 https://github.com/jmstudyacc/python_practice
 
-### Day 34: 
 
-**Today's Progress**: 
+### Day 34: April 26, 2021
 
-**Thoughts**: 
+**Today's Progress**: Worked through Mock exam papers ahead of the Python exam 06/05
+
+**Thoughts**: It was not as tricky as I expected which bodes well. I am hopeful that come the real thing I will have the same feeling and be able to get through it without much issue. Variety of topics tests in the mock paper which always makes me worry that my achilles heel didn't come up! Although Matrices did and despite my new outlook on them I still dislike them!
 
 **Link(s) to work**:
+https://github.com/jmstudyacc/python_practice
 
 
 ### Day 35: 
@@ -96,6 +98,7 @@ https://github.com/jmstudyacc/python_practice
 **Link(s) to work**:
 
 
+
 ### Day 36: 
 
 **Today's Progress**: 
@@ -105,6 +108,7 @@ https://github.com/jmstudyacc/python_practice
 **Link(s) to work**:
 
 
+
 ### Day 37: 
 
 **Today's Progress**: 
@@ -112,4 +116,5 @@ https://github.com/jmstudyacc/python_practice
 **Thoughts**: 
 
 **Link(s) to work**:
+
 
