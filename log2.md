@@ -89,14 +89,14 @@ https://github.com/jmstudyacc/python_practice
 https://github.com/jmstudyacc/python_practice
 
 
-### Day 35: 
+### Day 35: April 27, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Multi-threading in Python stole my attention today
 
-**Thoughts**: 
+**Thoughts**: Working on learning about Python multi-threading today and how to achieve it. There are various ways to get to multi-threading, but seems like the best way is to use events? Fun stuff and something I would like to definitely learn more about.
 
 **Link(s) to work**:
-
+https://github.com/jmstudyacc/python_practice
 
 
 ### Day 36: 
