@@ -99,14 +99,14 @@ https://github.com/jmstudyacc/python_practice
 https://github.com/jmstudyacc/python_practice
 
 
-### Day 36: 
+### Day 36: April 28, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Further exam revision via PoP1 Mock Exams
 
-**Thoughts**: 
+**Thoughts**: Matrices are still a pain that I have not worked through. That along with the way the questions are worded makes decomposing the questions difficult. I dislike the presentation of the questions as a small paragraph of text does not lend itself well to answering. Frustrating but need to work with it.
 
 **Link(s) to work**:
-
+https://github.com/jmstudyacc/python_practice
 
 
 ### Day 37: 
