@@ -109,12 +109,132 @@ https://github.com/jmstudyacc/python_practice
 https://github.com/jmstudyacc/python_practice
 
 
-### Day 37: 
+### Day 37: April 29, 2021
+
+**Today's Progress**: Working through the mock exams
+
+**Thoughts**: The tasks were not that difficult although some of my implementations are ugly - lots of for loops for instance. However, they passed the test cases which is all I need to care about for the upcoming exam. I have worked through nearly every question in this mock paper, but there is still 1 more to go. I will need to take some time to look at it as the wording of the question throws me off.
+
+**Link(s) to work**:
+https://github.com/jmstudyacc/python_practice/mock_exam3
+
+
+### Day 38: 
 
 **Today's Progress**: 
 
 **Thoughts**: 
 
 **Link(s) to work**:
+
+
+### Day 39: 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+### Day 40: 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+### Day 41: 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+### Day 42: 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+### Day 43: 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+### Day 44: 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+### Day 45: 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+### Day 46: 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+### Day 47: 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+### Day 48: 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+### Day 49: 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+### Day 50: 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
 
 
