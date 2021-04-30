@@ -119,14 +119,14 @@ https://github.com/jmstudyacc/python_practice
 https://github.com/jmstudyacc/python_practice/mock_exam3
 
 
-### Day 38: 
+### Day 38: April 30, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Working through some Hackerrank tasks for the Python track
 
-**Thoughts**: 
+**Thoughts**: Some of the tasks in the Hackerrank collection were not marked accurately for difficulty. They also lack tutorials on some of the problems which is a bit annoying. Frustrating as well that Python doesn't do arrays in the same way as Java, and some of the array magic can instead be achieved using Python dictionaries.
 
 **Link(s) to work**:
-
+https://github.com/jmstudyacc/python_practice/hackerrank
 
 ### Day 39: 
 
