@@ -128,13 +128,14 @@ https://github.com/jmstudyacc/python_practice/mock_exam3
 **Link(s) to work**:
 https://github.com/jmstudyacc/python_practice/hackerrank
 
-### Day 39: 
+### Day 39: May 1, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Working on Hackerrank problems today with a focus on map() and any() built-ins
 
-**Thoughts**: 
+**Thoughts**: It was interesting to learn about more of the built-in functions of Python. A bit rusty on slicing Strings, but got through it, more slowly than I would have liked though.
 
 **Link(s) to work**:
+https://github.com/jmstudyacc/python_practice/hackerrank
 
 
 ### Day 40: 
