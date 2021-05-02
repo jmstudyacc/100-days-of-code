@@ -138,13 +138,14 @@ https://github.com/jmstudyacc/python_practice/hackerrank
 https://github.com/jmstudyacc/python_practice/hackerrank
 
 
-### Day 40: 
+### Day 40: May 2, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Working on a program that I can compile and give to my wife for her birthday May 03
 
-**Thoughts**: 
+**Thoughts**: I was using Rust again for this as I know it can be compiled and shared. I wanted to be able to provide her with a binary that can be run with minimal difficulty. It was hard moving back to Rust after using Java & Python, ESPECIALLY after using Python as the difference feels huge. I like what I came up with, but know that I could continue trying to improve it for the rest of the week - do not have that kind of time luxury! Too many sleep() calls in the program, but they achieve the desired goal but I would like to improve on that.
 
 **Link(s) to work**:
+https://github.com/jmstudyacc/rust_practice/tree/master/bday/src
 
 
 ### Day 41: 
