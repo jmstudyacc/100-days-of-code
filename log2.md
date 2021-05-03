@@ -148,13 +148,14 @@ https://github.com/jmstudyacc/python_practice/hackerrank
 https://github.com/jmstudyacc/rust_practice/tree/master/bday/src
 
 
-### Day 41: 
+### Day 41: May 3, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Working on various sorting algorithms with a focus on Quicksort.
 
-**Thoughts**: 
+**Thoughts**: It was really interesting working on the different algorithms and implementing them in Python. A focus on Quicksort today with dual pivots and testing out how quickly it will sort the elements. A lot of fun today and helped to embed the steps of the algorithm - even if I forget I can also go back and look at my github!
 
 **Link(s) to work**:
+https://github.com/jmstudyacc/python_practice/tree/master/data_structures
 
 
 ### Day 42: 
