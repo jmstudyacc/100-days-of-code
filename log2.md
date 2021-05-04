@@ -158,13 +158,14 @@ https://github.com/jmstudyacc/rust_practice/tree/master/bday/src
 https://github.com/jmstudyacc/python_practice/tree/master/data_structures
 
 
-### Day 42: 
+### Day 42: May 4, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Spent my time today working on the mock exam papers ahead of the exam on Thursday
 
-**Thoughts**: 
+**Thoughts**: Although today was meant to not be about mocks/exams I took the chance to check my code against some of the mock exam model answers. My code didn't come up too badly when compared to the model answers! There are a few aspects I'm not happy with e.g. oveuse of range(len(x)) when dealing with a string and a simple for i in x: would acheive the same thing and demonstrate a better understanding of Python datatypes. I missed an entire question on 1 of the mock papers so ended up ploughing a lot of time into that. It is question8.py of the commit today. I was frustratingly close with my first attempt, but my second attempt of using a dictionary took me away. I came back to using indexing and got the solution needed, but that loose use of time won't be possible in the actual exam!
 
 **Link(s) to work**:
+https://github.com/jmstudyacc/python_practice/tree/master/POP1-Exam_Revision
 
 
 ### Day 43: 
