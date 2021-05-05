@@ -168,13 +168,14 @@ https://github.com/jmstudyacc/python_practice/tree/master/data_structures
 https://github.com/jmstudyacc/python_practice/tree/master/POP1-Exam_Revision
 
 
-### Day 43: 
+### Day 43: May 5, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Working through Hackerrank tasks on Strings and earlier worked on Data Structure theory
 
-**Thoughts**: 
+**Thoughts**: Keeping my mind sharp with Strings before exam tomorrow.
 
 **Link(s) to work**:
+https://github.com/jmstudyacc/python_practice/hackerrank
 
 
 ### Day 44: 
