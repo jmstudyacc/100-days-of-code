@@ -180,11 +180,12 @@ https://github.com/jmstudyacc/python_practice/hackerrank
 
 ### Day 44: 
 
-**Today's Progress**: 
+**Today's Progress**: PoP1 exam today, but once that was completed I spent some on Java.
 
-**Thoughts**: 
+**Thoughts**: Balancing parantheses in Java today. I am pretty close to having it working, but I need to head back to the drawing board. I know I need to use a stack and that I need to compare the values in reverse, but not all there yet.
 
 **Link(s) to work**:
+https://github.com/jmstudyacc/python_practice/hackerrank
 
 
 ### Day 45: 
