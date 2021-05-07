@@ -178,7 +178,7 @@ https://github.com/jmstudyacc/python_practice/tree/master/POP1-Exam_Revision
 https://github.com/jmstudyacc/python_practice/hackerrank
 
 
-### Day 44: 
+### Day 44: May 6, 2021
 
 **Today's Progress**: PoP1 exam today, but once that was completed I spent some on Java.
 
@@ -188,13 +188,14 @@ https://github.com/jmstudyacc/python_practice/hackerrank
 https://github.com/jmstudyacc/python_practice/hackerrank
 
 
-### Day 45: 
+### Day 45: May 7, 2021
 
-**Today's Progress**: 
+**Today's Progress**: finished off balancing parentheses in Java, stack object, while loop, switch statement and case+if statements to make it work. Learning about generics in Java.
 
-**Thoughts**: 
+**Thoughts**: Frustrating that I sort of had the Stack problem sorted yesterday but needed more research to get it working correctly. Although, I realised that the approach used doesn't really capture all the cases needed for balancing parantheses, an opportunity to improve there! Learning about Java generics today has been quite interesting especially as Generics are a term I have seen come up in my Rust studies a fair bit.
 
 **Link(s) to work**:
+https://github.com/jmstudyacc/python_practice/hackerrank
 
 
 ### Day 46: 
