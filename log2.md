@@ -175,7 +175,7 @@ https://github.com/jmstudyacc/python_practice/tree/master/POP1-Exam_Revision
 **Thoughts**: Keeping my mind sharp with Strings before exam tomorrow.
 
 **Link(s) to work**:
-https://github.com/jmstudyacc/python_practice/hackerrank
+https://github.com/jmstudyacc/hackerrank
 
 
 ### Day 44: May 6, 2021
@@ -185,7 +185,7 @@ https://github.com/jmstudyacc/python_practice/hackerrank
 **Thoughts**: Balancing parantheses in Java today. I am pretty close to having it working, but I need to head back to the drawing board. I know I need to use a stack and that I need to compare the values in reverse, but not all there yet.
 
 **Link(s) to work**:
-https://github.com/jmstudyacc/python_practice/hackerrank
+https://github.com/jmstudyacc/hackerrank
 
 
 ### Day 45: May 7, 2021
@@ -195,16 +195,17 @@ https://github.com/jmstudyacc/python_practice/hackerrank
 **Thoughts**: Frustrating that I sort of had the Stack problem sorted yesterday but needed more research to get it working correctly. Although, I realised that the approach used doesn't really capture all the cases needed for balancing parantheses, an opportunity to improve there! Learning about Java generics today has been quite interesting especially as Generics are a term I have seen come up in my Rust studies a fair bit.
 
 **Link(s) to work**:
-https://github.com/jmstudyacc/python_practice/hackerrank
+https://github.com/jmstudyacc/hackerrank
 
 
-### Day 46: 
+### Day 46: May 8, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Working through some Hackerrank problems and learning more about Generics
 
-**Thoughts**: 
+**Thoughts**: Had some fun implementing Generic classes & methods and solving some related Hackerrank challenges. Created my own classes that implement Comparator to sort objects.
 
 **Link(s) to work**:
+https://github.com/jmstudyacc/hackerrank
 
 
 ### Day 47: 
