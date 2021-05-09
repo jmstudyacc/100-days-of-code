@@ -208,13 +208,14 @@ https://github.com/jmstudyacc/hackerrank
 https://github.com/jmstudyacc/hackerrank
 
 
-### Day 47: 
+### Day 47: May 9, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Crash course on Generics, of all kinds, and creating a Generic Queue class
 
-**Thoughts**: 
+**Thoughts**: Wow, Generics are a pretty QoL improvement! I love the concept and what it brings for reusing code. It was really interesting getting to grips with the topic and understanding why they are used. The notation used for them will no longer be confusing like it was beforehand! Loved it today, really gripping and better than anything my university course has delivered for Java!!
 
 **Link(s) to work**:
+https://github.com/jmstudyacc/java_practice
 
 
 ### Day 48: 
