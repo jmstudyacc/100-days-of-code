@@ -218,13 +218,14 @@ https://github.com/jmstudyacc/hackerrank
 https://github.com/jmstudyacc/java_practice
 
 
-### Day 48: 
+### Day 48: May 10, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Threads today
 
-**Thoughts**: 
+**Thoughts**: I like working on threads and going over this was fun today. Remember! Your class should implement Runnable and then you can create new threads of the class. There are a number of variations that can go with Threads and that's what I'm currently working through.
 
 **Link(s) to work**:
+https://github.com/jmstudyacc/java_practice
 
 
 ### Day 49: 
