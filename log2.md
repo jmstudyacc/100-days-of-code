@@ -228,13 +228,14 @@ https://github.com/jmstudyacc/java_practice
 https://github.com/jmstudyacc/java_practice
 
 
-### Day 49: 
+### Day 49: May 11, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Finished off the Multi-threading chapter in the Java for Beginners Book
 
-**Thoughts**: 
+**Thoughts**: It was informative and I got a lot of practice in setting up threads in Java. Lacking good examples of how to utilise the threads, but that is something I can play with and research. I need to look up thread pools though as I feel like that's an important part of working with threads.
 
 **Link(s) to work**:
+https://github.com/jmstudyacc/java_practice
 
 
 ### Day 50: 
