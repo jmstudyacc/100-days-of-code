@@ -238,7 +238,7 @@ https://github.com/jmstudyacc/java_practice
 https://github.com/jmstudyacc/java_practice
 
 
-### Day 50: 
+### Day 50: May 13, 2021
 
 **Today's Progress**: Concurrency Utilities today as I dive deeper into multi-threaded programming.
 
