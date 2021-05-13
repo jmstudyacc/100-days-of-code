@@ -240,11 +240,12 @@ https://github.com/jmstudyacc/java_practice
 
 ### Day 50: 
 
-**Today's Progress**: 
+**Today's Progress**: Concurrency Utilities today as I dive deeper into multi-threaded programming.
 
-**Thoughts**: 
+**Thoughts**: Quite interesting to see some topics come up that I have learnt about in my Computer Systems module. I didn't think when the Synchronize method didn't implement some form of Semaphore or Lock. I just accepted it for what it did, really interesting to read about the other features of this package. Implemented a basic Semaphore based Shared Resource access in Java.
 
 **Link(s) to work**:
+https://github.com/jmstudyacc/java_practice
 
 
 
