@@ -12,6 +12,127 @@ https://github.com/jmstudyacc/java_practice
 
 ### Day 52: 
 
+**Today's Progress**: Sharpening skills again on Hackerrank ahead of Wednesday exam
+
+**Thoughts**: Not a great session today, pretty tired and struggled to really get to grips with the work. Some work on Hackerrank and looked into the BigDecimal problem that was lingering. Don't fully understand the solution so some debugging needed to see it in action.
+
+**Link(s) to work**:
+https://github.com/jmstudyacc/java_practice
+
+
+### Day 52: 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+### Day 52: 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+
+### Day 52: 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+
+### Day 52: 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+### Day 52: 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+### Day 52: 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+### Day 52: 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+### Day 52: 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+### Day 52: 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+
+### Day 52: 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+### Day 52: 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+### Day 52: 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+### Day 52: 
+
 **Today's Progress**: 
 
 **Thoughts**: 
