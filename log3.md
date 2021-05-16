@@ -10,7 +10,7 @@
 https://github.com/jmstudyacc/java_practice
 
 
-### Day 52: 
+### Day 52: May 15, 2021
 
 **Today's Progress**: Sharpening skills again on Hackerrank ahead of Wednesday exam
 
@@ -20,13 +20,14 @@ https://github.com/jmstudyacc/java_practice
 https://github.com/jmstudyacc/java_practice
 
 
-### Day 52: 
+### Day 53: May 16, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Working through the Mock exam for the PoP2 Java exam on Wednesday
 
-**Thoughts**: 
+**Thoughts**: It was really easy. Too easy if the PoP1 exam is anything to measure against. I will continue with the 2019 and 2020 exam papers as I aleady know they are more difficult. Biggest concerns for me right now? A coherent approach to constructing classes probably and my arch-nemesis Matrices.
 
 **Link(s) to work**:
+https://github.com/jmstudyacc/java_practice
 
 
 ### Day 52: 
