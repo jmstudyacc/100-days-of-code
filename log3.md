@@ -30,14 +30,14 @@ https://github.com/jmstudyacc/java_practice
 https://github.com/jmstudyacc/java_practice
 
 
-### Day 52: 
+### Day 54: May 17, 2021 
 
-**Today's Progress**: 
+**Today's Progress**: Worked through the Jun 2019 mock exam
 
-**Thoughts**: 
+**Thoughts**: On the whole I think it was a positive experience, there was one problem that I really struggled with and that was using HashMaps in a way to store days values and the values of those days. Mental gymnastics for me to get through that even with the solutions provided - took plenty of notes on it and tried to understand it better. The rest of the exam was easier to wrap my head around. The same can be more or less said for the 2020 exam paper, but the difficulty could vary so wildly!
 
 **Link(s) to work**:
-
+https://github.com/jmstudyacc/java_practice
 
 
 ### Day 52: 
