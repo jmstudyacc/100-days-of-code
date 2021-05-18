@@ -40,14 +40,14 @@ https://github.com/jmstudyacc/java_practice
 https://github.com/jmstudyacc/java_practice
 
 
-### Day 52: 
+### Day 55: May 18, 2021 
 
-**Today's Progress**: 
+**Today's Progress**: Worked through lambda expressions to have some understanding of them
 
-**Thoughts**: 
+**Thoughts**: Lambda expressions are pretty powerful and feel somewhat similar to Match statements that I've come across before in Rust. The work on Lambdas has helped improve my understanding of where they appear somewhat in Rust. It was a pretty cool session today, see how you can take an expression and reverse strings, toggle cases and replace chracters.
 
 **Link(s) to work**:
-
+https://github.com/jmstudyacc/java_practice
 
 
 ### Day 52: 
