@@ -50,13 +50,14 @@ https://github.com/jmstudyacc/java_practice
 https://github.com/jmstudyacc/java_practice
 
 
-### Day 52: 
+### Day 56: May 19, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Java exam today and did some studying up on Iterators() in Java
 
-**Thoughts**: 
+**Thoughts**: Bliss, finally finished with my obligation to learn Java. That may change if I pass my core exams and go back for the 2nd year. However, at present I am going to forget about it as I've never really been a fan. Looked at Iterators() today as deleting from an arraylist is a damn nightmare and more Lambda expression studies.
 
 **Link(s) to work**:
+[Update once timings allow]
 
 
 ### Day 52: 
