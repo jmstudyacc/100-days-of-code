@@ -69,13 +69,13 @@ https://github.com/jmstudyacc/java_practice
 **Link(s) to work**:
 
 
-### Day 52: 
+### Day 58: May 23, 2021 
 
-**Today's Progress**: 
+**Today's Progress**: Further work on Unity game dev
 
-**Thoughts**: 
+**Thoughts**: Animated my player now! The charcater has an idle animation, a walk animation and a jump animation. I need to investigate how we would go about creating a sliding aniamtion. I have got the animation clip ready, but need to think about how the code will work. Also, not yet implemented a means of checking for key double presses...
 
-**Link(s) to work**:
+**Link(s) to work**: Unity + GitHub still eludes me
 
 
 ### Day 52: 
