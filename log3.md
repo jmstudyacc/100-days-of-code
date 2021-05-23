@@ -60,11 +60,11 @@ https://github.com/jmstudyacc/java_practice
 [Update once timings allow]
 
 
-### Day 52: 
+### Day 57: May 22, 2021 
 
-**Today's Progress**: 
+**Today's Progress**: Working on Unity Game Development
 
-**Thoughts**: 
+**Thoughts**: Well, my streak was officially broken! Not that I care, I'm just going to carry on with the challenge as usual. I have been spending a few days on trying to play with Unity to make some games. I don't yet know how to upload games properly to Unity but once I do I'll provide a link!
 
 **Link(s) to work**:
 
