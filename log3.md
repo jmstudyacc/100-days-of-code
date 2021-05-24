@@ -78,14 +78,14 @@ https://github.com/jmstudyacc/java_practice
 **Link(s) to work**: Unity + GitHub still eludes me
 
 
-### Day 52: 
+### Day 59: May 24, 2021 
 
-**Today's Progress**: 
+**Today's Progress**: Rust is back on the menu!
 
-**Thoughts**: 
+**Thoughts**: Today saw me going gladly back to Rust as I took notes on error handling in Rust. Plenty more work to get through before I understand it. So far I've looked at the concepts of recoverable & unrecoverable errors, the panic! macro and what happens by default (walking up the stack and cleaning it). Also been checking out the Result<T, E> enum to see how that works - looks like my previous work with Generics in Java helps fill that gap!
 
 **Link(s) to work**:
-
+No links at present, but I have something greater planned for these notes...
 
 ### Day 52: 
 
