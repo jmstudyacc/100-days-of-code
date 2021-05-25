@@ -87,13 +87,15 @@ https://github.com/jmstudyacc/java_practice
 **Link(s) to work**:
 No links at present, but I have something greater planned for these notes...
 
-### Day 52: 
+### Day 60: 
 
-**Today's Progress**: 
+**Today's Progress**: Further work on Error Handling
 
-**Thoughts**: 
+**Thoughts**: Continuing on through 'The Book' chapter 9 on Error Handling. It's pretty interesting see how Rust deals with error handling. Admittedly it now makes
+things a bit clearer as I'm understanding why some code suggestions are written the way they are. Using the ? operator to eliminate a lot of the match expressions is really cool and I can definitely see that as useful later on. 
 
 **Link(s) to work**:
+No link - weekend will be spent getting things formatted more coherently.
 
 
 ### Day 52: 
