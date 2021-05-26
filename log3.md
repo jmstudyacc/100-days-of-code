@@ -87,7 +87,7 @@ https://github.com/jmstudyacc/java_practice
 **Link(s) to work**:
 No links at present, but I have something greater planned for these notes...
 
-### Day 60: 
+### Day 60: May 25, 2021
 
 **Today's Progress**: Further work on Error Handling
 
@@ -98,14 +98,25 @@ things a bit clearer as I'm understanding why some code suggestions are written 
 No link - weekend will be spent getting things formatted more coherently.
 
 
-### Day 52: 
+### Day 61: May 26, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Finished off Error Handling chapter
 
-**Thoughts**: 
+**Thoughts**: This was a fun chapter, heck, this book in its entirety is fun! I can't wait to get to the testing section and the project work. Error handling today, so looking at when to use panic! and when to return Result<T, E>. The crux of the matter seems to be if you expect that an error could occur and/or an error could be catastrophic for your code. Simple enough really. There was also more work on using the ? operator and how you can chain them together to get some really concise snippets of code. I personally liked this one:
+
+  let mut s = String::new();
+
+  File::open("hello.txt")?.read_to_string(&mut s)?;
+  Ok(s)
+            
+Although it turns out you can do it just with:
+
+fn read_username_from_string() -> Result<String, io::Error> {
+  fs::read_to_string("hello.txt')    
+  }
 
 **Link(s) to work**:
-
+As above
 
 
 ### Day 52: 
