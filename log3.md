@@ -119,7 +119,7 @@ fn read_username_from_string() -> Result<String, io::Error> {
 As above
 
 
-### Day 52: 
+### Day 62: 
 
 **Today's Progress**: 
 
@@ -128,7 +128,8 @@ As above
 **Link(s) to work**:
 
 
-### Day 52: 
+
+### Day 63: 
 
 **Today's Progress**: 
 
@@ -137,7 +138,8 @@ As above
 **Link(s) to work**:
 
 
-### Day 52: 
+
+### Day 64: 
 
 **Today's Progress**: 
 
@@ -146,7 +148,8 @@ As above
 **Link(s) to work**:
 
 
-### Day 52: 
+
+### Day 65: 
 
 **Today's Progress**: 
 
@@ -154,3 +157,100 @@ As above
 
 **Link(s) to work**:
 
+
+
+### Day 66: 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+
+### Day 67: 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+
+### Day 68: 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+
+### Day 69: 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+
+### Day 70: 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+
+### Day 71: 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+
+### Day 72: 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+
+### Day 73: 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+### Day 74: 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+### Day 75: 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
