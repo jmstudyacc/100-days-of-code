@@ -119,14 +119,14 @@ fn read_username_from_string() -> Result<String, io::Error> {
 As above
 
 
-### Day 62: 
+### Day 62: May 30, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Writing up some words on generics, testing out mdbooks crate, tweaking cargo.toml for binaries
 
-**Thoughts**: 
+**Thoughts**: A lot of housekeeping work done today around cargo. Really happy to have got to the bottom of Cargo throwing an error in there is no binary named main.rs. That issue has been resolved and now have also resolved the issue around multiple binaries not being registered by Cargo. Started forming chapter 10 of the book into an mdbook format to improve readability. I will also aim to go back over the previous chapters and do the same thing - although which screen to do that on I don't know! Started working through Generics Chapter in the 'The Book', but nothing meaty from it yet.
 
 **Link(s) to work**:
-
+[https://github.com/jmstudyacc/the_book_jmstyle]
 
 
 ### Day 63: 
