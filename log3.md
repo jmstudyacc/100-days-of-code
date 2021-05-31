@@ -129,14 +129,14 @@ As above
 [https://github.com/jmstudyacc/the_book_jmstyle]
 
 
-### Day 63: 
+### Day 63: May 31, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Continuing on with the work on generics and neatening up the book. 
 
-**Thoughts**: 
+**Thoughts**: Nothing revolutionary for me with generic functions. They seem to have a similar style to generics in Java. I assume then that generics are probably used similarly across a number of languages. Structs and generics now and this is where it is getting more interesting.
 
 **Link(s) to work**:
-
+[https://github.com/jmstudyacc/the_book_jmstyle]
 
 
 ### Day 64: 
