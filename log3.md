@@ -139,14 +139,14 @@ As above
 [https://github.com/jmstudyacc/the_book_jmstyle]
 
 
-### Day 64: 
+### Day 64: June 01, 2021
 
-**Today's Progress**: 
+**Today's Progress**: More work on Rust generics
 
-**Thoughts**: 
+**Thoughts**: I didn't get through as much of the chapter as I was hoping. Still working through the chapter, but this is a long chapter so don't anticipate I will be finished soon.
 
 **Link(s) to work**:
-
+[https://github.com/jmstudyacc/the_book_jmstyle]
 
 
 ### Day 65: 
